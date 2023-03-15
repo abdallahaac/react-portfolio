@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	background-color: #181818;
+	width: 100%;
+	font-family: "Century Gothic", Futura, sans-serif;
+	display: flex;
+	flex-direction: column;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
