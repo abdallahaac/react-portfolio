@@ -8,7 +8,7 @@ export default function Art() {
 
 			<section className="art-header-container">
 				<h1 className="art-title  underline">
-					<Link to={"/art"}>Art</Link>
+					<Link to={"/art"}>Arts</Link>
 				</h1>
 			</section>
 			<section class="art-post-container">
