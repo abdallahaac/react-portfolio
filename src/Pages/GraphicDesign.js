@@ -7,7 +7,7 @@ const GraphicDesign = () => {
 		<div className="graphic-body">
 			<section className="graphic-header-container">
 				<h1 className=" graphic-title underline">
-					<Link to={"/graphic-design"}>Graphic Design</Link>
+					<Link to={"/graphic-design"}>Graphic Designs</Link>
 				</h1>
 			</section>
 			{/* <!-- beginning of graphic design section --> */}
